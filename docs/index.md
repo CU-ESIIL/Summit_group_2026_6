@@ -62,8 +62,11 @@ public_mode_toggle: true
 
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
-| | | | |
-| | | | |
+| Kelly Shreeve | DrivenData | kelly@drivendata.org | kellyshreeve |
+| JuanSe Lozano | FIU | juanlozanov@gmail.com | juanlozanov |
+| Abrar Hossain | UToledo | abrarhossainhimself@gmail.com | abrarhossainhimself|
+| Guido A. Herrera-R | Cornell | gah234@cornell.edu | guidohero |
+| Aleksander Berg | University of Colorado Boulder | aleksander.berg@colorado.edu | alekberg |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -87,13 +90,13 @@ public_mode_toggle: true
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Single slack channel, communicate over slack by @ing.
+- Some test cases (depth) may illustrate the inventory (breadth) group, but they do not have to be shared in the larger paper (it is okay to keep your case study independent)
+- Step up, step back / even turn taking
 
 Our decision making strategy:
 
-...
+- Love it, Like it, Loath it... 1 - 4 voting
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
