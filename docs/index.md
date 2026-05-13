@@ -24,7 +24,7 @@ public_mode_toggle: true
 !!! tip "For ESIIL staff"
     Group Number: 6
     
-    Breakout Room #: (To be assigned by ESIIL Staff)
+    Breakout Room #: S140
 
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_6/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
     
