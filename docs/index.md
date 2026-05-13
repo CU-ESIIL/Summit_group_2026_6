@@ -44,17 +44,6 @@ public_mode_toggle: true
 
 ## People { #people .oasis-report-out-context }
 
-!!! note "Day 1 task"
-    Get to know your team: share your cards (5-7 mins). Update your team roster (2-3 min).
-
-    Use the in-person name cards to guide quick introductions.
-
-    | Name card prompts | Follow-up notes |
-    |---|---|
-    | ![Name card prompts for name, institution, area of expertise, research difference, and questions](assets/team/name-card-prompts.png) | ![Follow-up notes card with space for names and follow-up ideas](assets/team/name-card-followups.png) |
-
-    [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_6/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
-
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
 | Kelly Shreeve | DrivenData | kelly@drivendata.org | kellyshreeve |
@@ -65,24 +54,6 @@ public_mode_toggle: true
 | Nick Young | Colorado State University | nicholas.young@colostate.edu | nickyoung2332 |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
-
-!!! note "Day 1 task"
-
-    Suggested Self-Facilitation Instructions:
-    
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
-
-    | Gradients of agreement | 
-    |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) | 
-
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_6/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
 
