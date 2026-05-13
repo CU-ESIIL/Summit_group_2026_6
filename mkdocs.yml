@@ -35,7 +35,7 @@ nav:
       - Instance to/from persistent storage: instructions/save-to-persistent-storage.md
   - Links:
       - Your code: https://github.com/CU-ESIIL/Summit_group_2026_6/tree/main/code
-      - Your documentation: https://github.com/CU-ESIIL/Summit_group_2026_6/tree/main/documentation/group-notes.md
+      - Your documentation: documentation/group-notes.md
       - Your persistent storage: "https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_Summit_2026/Group_6?type=folder&resourceId=a1d20a86-4d8d-11f1-b642-90e2ba675364"
 
 
