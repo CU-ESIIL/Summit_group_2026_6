@@ -15,10 +15,10 @@ nav:
   - Home: index.md
   - Example: example.md
   # Instructions are hidden from the sidebar for now. Uncomment this block to show them again.
-  # - Instructions:
-  #     - Day 1 — Form Your Summit Team: instructions/day1.md
-  #     - Day 2 — Build and Report Back: instructions/day2.md
-  #     - Day 3 — Synthesize and Share: instructions/day3.md
+  - Instructions:
+      - Day 1 — Form Your Summit Team: instructions/day1.md
+      - Day 2 — Build and Report Back: instructions/day2.md
+      - Day 3 — Synthesize and Share: instructions/day3.md
   #- AI for Sustainability:
   #    - Defining AI: ai-for-sustainability/defining-ai.md
   #    - Defining Sustainability: ai-for-sustainability/defining-sustainability.md
