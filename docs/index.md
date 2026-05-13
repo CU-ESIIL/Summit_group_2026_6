@@ -19,7 +19,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Team 6 Home: Embeddings (Breadth)
+# Team 6 Home: Embedders (Breadth)
 
 !!! tip "For ESIIL staff"
     Group Number: 6
@@ -76,24 +76,17 @@ AI norms:
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "Day 2 Tasks"
-    Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
-
-    Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test. 
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_6/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
-
 Short term:
 
-...
+- Fill in [Google sheet tracker](https://docs.google.com/spreadsheets/d/1txBR827uQqRaOKPNIJP_qfkJvdxnDKkJxMFVUPPzzZI/edit?gid=1584353463#gid=1584353463)
 
 Long term:
 
-- ...
-- ...
+- Guidebook
+- Review paper
+- Systematic test/benchmarking
 
 ![Day 2 morning whiteboard or notes photo](assets/whiteboards/day_1_sheet.png)
-[Google sheet link](https://docs.google.com/spreadsheets/d/1txBR827uQqRaOKPNIJP_qfkJvdxnDKkJxMFVUPPzzZI/edit?gid=1584353463#gid=1584353463)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
@@ -101,42 +94,33 @@ Long term:
 
 Our working question:
 
-...
+- What is the current state of earth embeddings? 
+    - What models exist?
+    - What are they good for?
+- What are earth embeddings and how do explain them?
 
 What would count as progress:
 
-...
-
-## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
-
+- Create a matrix to track models
+- A mostly complete table
 
 ## Why this matters (the “upshot”) 📣 { #why-this-matters .oasis-report-out-section .oasis-report-out-day2 }
 
 This matters because:
 
-...
+- To use earth embeddings, we need to know what's out there and how to choose from what's available.
 
 People who could use this:
 
-...
+- People new to earth embeddings
+- Researchers
+- Data scientists
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
-    Provide a snapshot showing some initial data patterns. 
-
-    Add 2-4 promising data sources (links +1-line notes)    
-
-![Exploration figure](assets/explorations/explore_data_plot.png)
-
-*Snapshot showing initial data patterns.*
-
 Promising data sources:
 
-- [Data source 1](#): ...
-- [Data source 2](#): ...
-- [Data source 3](#): ...
-- [Data source 4](#): ...
+- [Google sheet tracker](https://docs.google.com/spreadsheets/d/1txBR827uQqRaOKPNIJP_qfkJvdxnDKkJxMFVUPPzzZI/edit?gid=1584353463#gid=1584353463)
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
@@ -156,8 +140,8 @@ Methods/technologies we are testing:
 
 ### Challenges identified
 
-- ...
-- ...
+- The number of foundational models available
+- Logical ways to categorize them
 
 ### Visuals
 
