@@ -62,6 +62,7 @@ public_mode_toggle: true
 | Abrar Hossain | UToledo | abrarhossainhimself@gmail.com | abrarhossainhimself|
 | Guido A. Herrera-R | Cornell | gah234@cornell.edu | guidohero |
 | Aleksander Berg | University of Colorado Boulder | aleksander.berg@colorado.edu | alekberg |
+| Nick Young | Colorado State University | nicholas.young@colostate.edu | nickyoung2332 |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
