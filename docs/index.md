@@ -92,7 +92,8 @@ Long term:
 - ...
 - ...
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
+![Day 2 morning whiteboard or notes photo](assets/whiteboards/day_1_sheet.png)
+[Google sheet link](https://docs.google.com/spreadsheets/d/1txBR827uQqRaOKPNIJP_qfkJvdxnDKkJxMFVUPPzzZI/edit?gid=1584353463#gid=1584353463)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 
