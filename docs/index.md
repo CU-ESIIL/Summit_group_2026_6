@@ -93,6 +93,15 @@ Our decision making strategy:
 
 - Love it, Like it, Loath it... 1 - 4 voting
 
+AI norms:
+
+- Research/exploration
+- Code snippets and claude code/codex/copilot ok (don't give sensitive data)
+    - Prefer claude, gemini, cyverse and copilot with anthropic activated, if possible
+- Editing/polishing/reviewing work (read after the edit)
+- Create documentation like READMEs
+- Not for first pass writing of papers
+
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
 !!! note "Day 2 Tasks"
