@@ -114,68 +114,42 @@ Promising data sources:
 
 - [Google sheet tracker](https://docs.google.com/spreadsheets/d/1txBR827uQqRaOKPNIJP_qfkJvdxnDKkJxMFVUPPzzZI/edit?gid=1584353463#gid=1584353463)
 
-## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "methods"
-    Add 2-4 methods/technologies we're testing (stats, models, viz).
-
-[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_6/tree/main/code){ .md-button }
-
-Methods/technologies we are testing:
-
-| Method or technology | What we tested | Early note |
-|---|---|---|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-
 ### Challenges identified
 
 - The number of foundational models available
 - Logical ways to categorize them
 
-### Visuals
-
-![Method or workflow visual](assets/figures/figure1.png)
-
-### Next Steps
-
-Short term: 
-
-Long term: 
-
-!!! note "Day 3 Tasks"
-    Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next 
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_6/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
-
-
 ## Team Photo { #team-photo }
 
-![Team photo](assets/team/team_photo.jpg)
+![Team photo](assets/team_photo.jpg)
 
 *Team members and collaborators who contributed to this project.*
 
 ## Findings at a glance 📣 { #findings-at-a-glance .oasis-report-out-section .oasis-report-out-day3 }
 
-Headline 1 — what, where, how much
+### Earth Embeddings Datasets and Foundation Models
+
+#### Educational Podcast
+
+- [Podcast link](https://notebooklm.google.com/notebook/703f34da-568c-409a-a9f6-27d3bfbc4ffd/artifact/77e40fd9-6fed-4793-ace9-48d1f4411258?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+- [Podcast 2](assets/podcast_2.m4a)
+
+#### Summary Guide
 
 ...
 
-Headline 2 — change/trend/contrast
+#### In-depth Inventory of 26 current models
 
-...
-
-Headline 3 — implication for practice or policy
-
-...
-
-## Visuals that tell a story 📣 { #story-visuals .oasis-report-out-section .oasis-report-out-day3 }
-
-![Story visual](assets/figures/main_result.png)
-
-*Visual 1: the main pattern or output we want people to remember.*
+- A [Google Sheet](https://docs.google.com/spreadsheets/d/1n2m52Y0c-6Qvu8e1Gbq4V-Xg64qNjRKlH8BLTb-PEy4/edit?gid=1584353463#gid=1584353463) with resources, models, and tutorials.
+    - **Resources**: collection of 12 resources, including academic papers and software tools.
+        - Key software includes TorchGeo, a Python package for geospatial machine learning.
+        - Notable papers include Esther Rolf's overview of Earth Embeddings and Google's research on AlphaEarth Foundations.
+    - **Models**: a matrix of the characteristics, input data, and use cases for 26 earth embeddings datasets and foundation models.
+        - Useful for determining which embedding dataset or foundation model to select for research projects.
+        - It includes well-known models such as Clay, Prithvi, and MOSAIKS, as well as specialized ones like AlphaEarth, SpectralGPT, and SatCLIP.
+        - The data provides granular technical details for each model, including their training datasets (e.g., Landsat 8/9, Sentinel-2), spatial resolution, and whether they offer pre-trained embeddings.
+    - **Tutorials**: Useful code tutorials for Alpha Earth and MOSAIKS.
+        - These tutorials cover practical applications such as Unsupervised Classification, Regression, and Similarity Search, providing a bridge from theoretical models to real-world geospatial analysis.
 
 ## What’s next? 📣 { #whats-next .oasis-report-out-section .oasis-report-out-day3 }
 
