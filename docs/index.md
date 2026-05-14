@@ -131,22 +131,23 @@ Promising data sources:
 
 #### Educational Podcast
 
-- [Podcast link](https://notebooklm.google.com/notebook/703f34da-568c-409a-a9f6-27d3bfbc4ffd/artifact/77e40fd9-6fed-4793-ace9-48d1f4411258?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+- We fed model literature to NotebookLM and developed two, easily interpretable podcasts on earth embeddings.
+    - [Podcast link](https://notebooklm.google.com/notebook/703f34da-568c-409a-a9f6-27d3bfbc4ffd/artifact/77e40fd9-6fed-4793-ace9-48d1f4411258?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+    - [Podcast link 2](https://notebooklm.google.com/notebook/c8980247-a5c0-4008-9a38-dd8b4d36aef3/artifact/bcf948f8-364e-49d0-85fd-54fa1ec0670f?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
 #### Summary Guide
 
-...
+![Model summary](assets/model_summary.png)
+* *Note*. Created with nano-banana. Accuracy should be verified.
 
 #### In-depth Inventory of 26 current models
 
 - A [Google Sheet](https://docs.google.com/spreadsheets/d/1n2m52Y0c-6Qvu8e1Gbq4V-Xg64qNjRKlH8BLTb-PEy4/edit?gid=1584353463#gid=1584353463) with resources, models, and tutorials.
     - **Resources**: collection of 12 resources, including academic papers and software tools.
-        - Key software includes TorchGeo, a Python package for geospatial machine learning.
-        - Notable papers include Esther Rolf's overview of Earth Embeddings and Google's research on AlphaEarth Foundations.
     - **Models**: a matrix of the characteristics, input data, and use cases for 26 earth embeddings datasets and foundation models.
         - Useful for determining which embedding dataset or foundation model to select for research projects.
         - It includes well-known models such as Clay, Prithvi, and MOSAIKS, as well as specialized ones like AlphaEarth, SpectralGPT, and SatCLIP.
-        - The data provides granular technical details for each model, including their training datasets (e.g., Landsat 8/9, Sentinel-2), spatial resolution, and whether they offer pre-trained embeddings.
+        - The sheet provides granular technical details for each model, including their training datasets (e.g., Landsat 8/9, Sentinel-2), spatial resolution, and whether they offer pre-trained embeddings.
     - **Tutorials**: Useful code tutorials for Alpha Earth and MOSAIKS.
         - These tutorials cover practical applications such as Unsupervised Classification, Regression, and Similarity Search, providing a bridge from theoretical models to real-world geospatial analysis.
 
