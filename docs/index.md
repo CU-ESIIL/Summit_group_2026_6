@@ -132,8 +132,6 @@ Promising data sources:
 #### Educational Podcast
 
 - [Podcast link](https://notebooklm.google.com/notebook/703f34da-568c-409a-a9f6-27d3bfbc4ffd/artifact/77e40fd9-6fed-4793-ace9-48d1f4411258?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
-- [Podcast 2](assets/podcast_2.m4a)
-![Podcast 2](assets/podcast_2.m4a)
 
 #### Summary Guide
 
@@ -156,15 +154,16 @@ Promising data sources:
 
 Short term:
 
-- ...
+- Confirming and standardizing model data that AI filled in
 
 Long term:
 
-- ...
+- Synthesizing the data
+- Developing a how-to-choose guide
 
 Who should see this next
 
-- ...
+- Bring back to our organizations
 
 ## Cite & Reuse { #cite-reuse }
 
