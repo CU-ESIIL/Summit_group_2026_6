@@ -131,7 +131,7 @@ Promising data sources:
 
 #### Educational Podcast
 
-- We fed model literature to NotebookLM and developed two, easily interpretable podcasts on earth embeddings.
+- We fed earth embedding literature to NotebookLM and developed two podcasts on the diversity of earth embedding models.
     - [Podcast link](https://notebooklm.google.com/notebook/703f34da-568c-409a-a9f6-27d3bfbc4ffd/artifact/77e40fd9-6fed-4793-ace9-48d1f4411258?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
     - [Podcast link 2](https://notebooklm.google.com/notebook/c8980247-a5c0-4008-9a38-dd8b4d36aef3/artifact/bcf948f8-364e-49d0-85fd-54fa1ec0670f?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
 
